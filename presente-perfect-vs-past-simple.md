@@ -1,11 +1,11 @@
 Ejercicio 1: Completa las siguientes frases con el presente perfecto o pasado simple.
 
     She has eaten (eat) sushi yesterday.
-    They __________ (visit) Paris many times.
-    He __________ (finish) his homework just now.
-    We __________ (live) in this city for five years.
-    I __________ (see) that movie already.
-    They __________ (go) to Spain last summer.
+    They have visited (visit) Paris many times.
+    He finished (finish) his homework just now.
+    We have lived (live) in this city for five years.
+    I have saw (see) that movie already.
+    They gone (go) to Spain last summer.
     She __________ (read) three books this month.
     He __________ (never/be) to Asia.
     We __________ (play) soccer yesterday.
