@@ -6,10 +6,10 @@ Ejercicio 1: Completa las siguientes frases con el presente perfecto o pasado si
     We have lived (live) in this city for five years.
     I have saw (see) that movie already.
     They gone (go) to Spain last summer.
-    She __________ (read) three books this month.
-    He __________ (never/be) to Asia.
-    We __________ (play) soccer yesterday.
-    They __________ (not/start) the project yet.
+    She readed (read) three books this month.
+    He has never been (never/be) to Asia.
+    We played (play) soccer yesterday.
+    They haven´t started (not/start) the project yet.
 
 Ejercicio 2: Elige la opción correcta entre el presente perfecto y el pasado simple.
 
@@ -23,6 +23,9 @@ Ejercicio 2: Elige la opción correcta entre el presente perfecto y el pasado si
     They (were / have been) friends since childhood.
     He (broke / has broken) his leg while skiing last winter.
     We (have studied / studied) Spanish for five years.
+
+    Respuestas: 
+    1. 
 
 Ejercicio 3: Completa las siguientes conversaciones usando el presente perfecto o pasado simple según corresponda.
 
