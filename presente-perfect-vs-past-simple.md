@@ -25,24 +25,25 @@ Ejercicio 2: Elige la opción correcta entre el presente perfecto y el pasado si
     We (have studied / studied) Spanish for five years.
 
     Respuestas: 
-    1. 
+    1. had
+    2. 
 
 Ejercicio 3: Completa las siguientes conversaciones usando el presente perfecto o pasado simple según corresponda.
 
-    A: __________ (you/see) that new film?
-    B: Yes, I __________ (see) it last night.
+    A: Have you seen (you/see) that new film?
+    B: Yes, I saw (see) it last night.
 
-    A: __________ (he/ever/be) to Japan?
-    B: No, he __________ (never/be) there.
+    A: Has he ever been (he/ever/be) to Japan?
+    B: No, he has never was (never/be) there.
 
-    A: __________ (you/finish) your work yet?
-    B: Yes, I __________ (finish) it just now.
+    A: Have you finished (you/finish) your work yet?
+    B: Yes, I have finished (finish) it just now.
 
-    A: __________ (they/visit) the museum yesterday?
-    B: No, they __________ (not/visit) it yet.
+    A: Did they visit (they/visit) the museum yesterday?
+    B: No, they haven´t visited (not/visit) it yet.
 
-    A: __________ (she/read) that book?
-    B: Yes, she __________ (read) it last month.
+    A: Has She readed (she/read) that book?
+    B: Yes, she readed (read) it last month.
 
 Respuestas sugeridas:
 Ejercicio 1:
